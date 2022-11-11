@@ -1,0 +1,16 @@
+{
+  "name": "reviewcal",
+  "version": "1.0.0",
+  "description": "This is a review on the Calculator App from a course on Udemy by Angela Yu.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mk-hcj/calApp.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
